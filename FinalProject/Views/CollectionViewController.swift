@@ -17,7 +17,7 @@ class CollectionViewController: UICollectionViewController {
     var arrRes: [String] = []
     var champArray: [String:[String:Any]] = [:]
     var champIds: [Int: String] = [:]
-    let headers : HTTPHeaders = ["X-Riot-Token": "RGAPI-8031d12d-7015-41e0-b930-c91e0447419b"]
+    let headers : HTTPHeaders = ["X-Riot-Token": "RGAPI-c48a52c3-28bf-41ac-b73e-84561dbe4f2e"]
     
 
     override func viewDidLoad() {
